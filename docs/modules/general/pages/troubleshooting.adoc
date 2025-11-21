@@ -212,6 +212,7 @@ ERROR NullInjectorError: R3InjectorError[PortalDialogService -> DialogService ->
 ** rxjs
 ** primeng
 ** ngx-translate
+** ngrx packages
 
 * Check in your package.json which of the mentioned packages are installed:
 
